@@ -8,7 +8,7 @@
 
 Repositório referente ao desafio do processo seletivo Solvimm. A documentação do código encontra-se em markdown no próprio notebook do projeto.
 
-Também vale ressaltar que o notebook se resolve sozinho, ou seja, basta ter a biblioteca pandas instalada que é possível rodar o código sem ter que baixar arquivos, editar ou até criar pastas. Entretanto, caso a leitura da base de dados falhe, basta alterar o caminho de leitura do csv para os arquivos originais, que estão disponíveis em: 
+Também vale ressaltar que o notebook se resolve sozinho, ou seja, basta ter a biblioteca pandas instalada que é possível rodar o código sem ter que baixar arquivos, editar ou até criar pastas. Entretanto, caso a leitura da base de dados falhe, basta baixar os arquivos originais, que estão disponíveis nos links abaixo, e alterar o caminho de leitura do csv
 
 * https://drive.google.com/file/d/1gLsCjaMrL91ECdThq58cZAzB9tPxG18g/view
 
