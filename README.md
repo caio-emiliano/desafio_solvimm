@@ -4,7 +4,7 @@
   <img src="https://github.com/caio-emiliano/desafio_solvimm/blob/main/solvimm.jpg" >
 </p>
 
-# Desafio Engenharia de Dados Solvimm
+# Desafio Solvimm - Engenharia de Dados 
 
 Repositório referente ao desafio do processo seletivo Solvimm. A documentação do código encontra-se em markdown no próprio notebook do projeto.
 
